@@ -1,6 +1,16 @@
-### Hola soy Edson Gaxiola ⚡
 
-![github-backgrund](https://github.com/DevSiuxs/DevSiuxs/assets/151599242/9e3bbf93-15e6-481f-825e-487a38d0e6fc)
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=purple&size=25&center=true&vCenter=true&width=600&height=100&lines=DevSiuxs+Front-End+Developer...;Computer+Science+Student;"></a>
+</p>
+
+![devsiuxs-high-resolution-logo](https://github.com/DevSiuxs/DevSiuxs/assets/151599242/3a68ceba-3220-4e65-a6e1-92aa6d6ce75e)
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 
 ```js
 const DevSiux = {
@@ -17,7 +27,7 @@ Pais:"México|Ciudad de México"
 <a href="https://github.com/DevSiuxs/DevSiuxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/DevSiuxs/DevSiuxs" height="30" width="40" /></a>
 
 
-</p><h3 align="left">Lenguajes y herramientas:</h3><p align="left">
+</p><h3 align="left" border="1px">Lenguajes y herramientas:</h3><p align="left">
 
 
 
@@ -28,6 +38,27 @@ Pais:"México|Ciudad de México"
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/DevSiuxs/">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSiuxs&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="DevSiuxs"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
+
+<br>
+<br>
 
 
 
