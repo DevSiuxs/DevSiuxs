@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=purple&size=25&center=true&vCenter=true&width=600&height=100&lines=DevSiuxs+Front-End+Developer...;Computer+Science+Student;"></a>
 </p>
 
-![devsiuxs-high-resolution-logo](https://github.com/DevSiuxs/DevSiuxs/assets/151599242/3a68ceba-3220-4e65-a6e1-92aa6d6ce75e)
+![background-DevSiuxs-Items](https://github.com/DevSiuxs/DevSiuxs/assets/151599242/ae341971-69e9-4a6f-8d82-67dadc03ee9d)
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
@@ -14,20 +14,19 @@
 
 ```js
 const DevSiux = {
-Nombre:["Edson","Gaxiola","Hernandez"],
-Pronombres:"el"|"él",
-Pais:"México|Ciudad de México"
+ABOUT ME
+Name Edson Gaxiola Hernandez
+Estudent Science Computer | IPN | UPIICSA
+Country "México|Ciudad de México"
 }
 ```
 
-</p><h3 align="left">Redes:</h3><p align="left">
-
+</p><h3 align="left">Social Media</h3><p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100076519323284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100076519323284" height="30" width="40" /></a>
-<a href="https://www.instagram.com/edson22_gax/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/edson22_gax/" height="30" width="40" /></a>
-<a href="https://github.com/DevSiuxs/DevSiuxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/DevSiuxs/DevSiuxs" height="30" width="40" /></a>
+<a href="https://www.instagram.com/edson22_gax/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/edson22_gax/" height="30" width="40" /></a>                                                        <a href="https://github.com/DevSiuxs/DevSiuxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/DevSiuxs/DevSiuxs" height="30" width="40" /></a>
 
 
-</p><h3 align="left" border="1px">Lenguajes y herramientas:</h3><p align="left">
+</p><h3 align="left" border="1px">Languages and tools</h3><p align="left">
 
 
 
