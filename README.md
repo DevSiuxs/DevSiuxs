@@ -14,10 +14,24 @@
 
 ```js
 const DevSiux = {
-ABOUT ME
-Name Edson Gaxiola Hernandez
-Estudent Science Computer | IPN | UPIICSA
-Country "México|Ciudad de México"
+ACERCA DE MI
+Hola soy Edson Gaxiola estudiante de Ciencias de la informatica UPIICSA
+
+EXPERIENCIA LABORAL
+Proyecto 'UniTeams'
+
+EDUCACION
+Estudiante de Ciencias de la informatica en la univesidad UPIICSA
+
+INTERES
+Me gusta pasar mis ratos libres ya sea estudiando o dedicandome al ambito deportivo
+Me gusta toda la parte del desarrollo Front-End y lo que se relaciona a la tecnologia
+
+CONTACTO
+Gmail:edsongaxiola77@gmail.com
+Github:DevSiuxs
+
+GRACIAS POR LEER ESTA INFORMACION
 }
 ```
 
