@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=purple&size=25&center=true&vCenter=true&width=600&height=100&lines=DevSiuxs+Front-End+Developer...;Computer+Science+Student;"></a>
 </p>
 
-![background-DevSiuxs-Items](https://github.com/DevSiuxs/DevSiuxs/assets/151599242/ae341971-69e9-4a6f-8d82-67dadc03ee9d)
+![Image](https://github.com/user-attachments/assets/415432a9-f8a2-4ad1-bfe7-4867b28f0bad)
 
 ```js
 const DevSiux = {
